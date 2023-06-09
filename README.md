@@ -8,9 +8,9 @@ Lord Of The Quotes is an Android app that brings you a collection of memorable q
 Lord Of The Quotes fetches a vast collection of quotes from the "Lord of the Rings" series using the [The One API](https://the-one-api.dev/). The app leverages Retrofit, Room, and Paging 3 to handle API requests, local storage, and efficient data pagination, respectively. This ensures that you can browse through a wide range of quotes from your favorite characters seamlessly.
 
 
-<div style="display: flex;">
-  <img src="./appImages/Screen1.png" alt="QuotesScreen1" style="width: 45%;">
-  <img src="./appImages/Screen2.png" alt="QuotesScreen2" style="width: 45%;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./appImages/Screen1.png" alt="QuotesScreen1" style="width: 49%;">
+  <img src="./appImages/Screen2.png" alt="QuotesScreen2" style="width: 49%;">
 </div>
 
 
@@ -18,14 +18,14 @@ Lord Of The Quotes fetches a vast collection of quotes from the "Lord of the Rin
 Lord Of The Quotes lets you dive deeper into the enchanting world of Middle-earth by allowing you to listen to a curated Spotify playlist of "Lord of the Rings" music. The app integrates Spotify's Android SDK, enabling you to enjoy a selection of mesmerizing soundtracks from the movies while browsing the quotes.
 
 <p align="center">
-<img src="./appImages/Screen3.png" alt="SoundtrackScreen" style="width: 45%;">
+<img src="./appImages/Screen3.png" alt="SoundtrackScreen" style="width: 49%;">
 </p>
 
 ### 3. AI-Generated Quotes
 Unleash the power of artificial intelligence with Lord Of The Quotes' AI-generated quotes feature. By using OpenAI's REST API, the app can generate quotes in the style of various "Lord of the Rings" characters.
 
 <p align="center">
-<img src="./appImages/Screen4.png" alt="AboutScreen" style="width: 45%;">
+<img src="./appImages/Screen4.png" alt="AboutScreen" style="width: 49%;">
 </p>
 
 ## Technologies Used
